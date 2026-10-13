@@ -1,0 +1,10 @@
+streamlit[pdf]
+langchain
+langchain-community
+langchain-openai
+langchain-neo4j
+langchain-experimental
+pypdf
+python-dotenv
+graphviz
+certifi
